@@ -53,11 +53,10 @@ This project uses a **Support Vector Machine (SVM)** model to predict whether a 
 
 ## ✅ Results
 
-- **Training Accuracy:** High accuracy on training data (as per output).
-- **Test Accuracy:** Good generalization on test data.
-- **Sample Prediction:** The model correctly predicts unseen input as diabetic or non-diabetic.
+- **Training Accuracy:** 78.7%, indicating the model performs well on the training data.
+- **Test Accuracy:** 77.3%, suggesting good generalization to unseen data.
+- **Sample Prediction:** The model can accurately predict whether a person is diabetic or non-diabetic on new input data.
 
----
 
 ## 💡 What We Learned
 
